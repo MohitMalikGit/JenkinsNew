@@ -4,6 +4,7 @@ public class Main {
 		String arr[]  = {"Akhilesh" , "Sohali" , "Mohit" , "Ekta"};
 		for(String x : arr) System.out.println(x);
 		System.out.println("changed");
+		System.out.println("mohit and harshit sitting in the caf");
 	}
 
 }
